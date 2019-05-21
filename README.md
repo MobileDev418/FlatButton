@@ -12,7 +12,7 @@ Configure your Podfile to use `FlatButton`:
 
 ```pod 'FlatButton'```
 
-Note that FlatButton is Swift 3 only.
+Updated that FlatButton to Swift 4.2
 
 ## Usage
 
